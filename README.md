@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Bot project for sendind messages to starters
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Bot project for sendind messages to starters
 
 ## Getting started
 
